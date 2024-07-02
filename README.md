@@ -1,4 +1,5 @@
-# Supplementary Materials for "Investigating the Contextualised Word Embedding Dimensions Responsible for Contextual and Temporal Semantic Changes"
+# svp-dims
+Code for "Investigating the Contextualised Word Embedding Dimensions Responsible for Contextual and Temporal Semantic Changes"
 
 ## Data
  - [Word-in-Context](https://pilehvar.github.io/wic/): licensed under a Creative Commons Attribution-NonCommercial 4.0 License
